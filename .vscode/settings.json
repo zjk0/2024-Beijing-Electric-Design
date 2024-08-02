@@ -1,0 +1,32 @@
+{
+    "MicroPython.executeButton": [
+        {
+            "text": "▶",
+            "tooltip": "运行",
+            "alignment": "left",
+            "command": "extension.executeFile",
+            "priority": 3.5
+        }
+    ],
+    "MicroPython.syncButton": [
+        {
+            "text": "$(sync)",
+            "tooltip": "同步",
+            "alignment": "left",
+            "command": "extension.execute",
+            "priority": 4
+        }
+    ],
+    "files.associations": {
+        "main.h": "c",
+        "ili9488.h": "c",
+        "scopegui.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "stm32f4xx_hal_conf.h": "c",
+        "ad9959_2.h": "c",
+        "ad9959_outset.h": "c",
+        "dac.h": "c",
+        "PE4302.C": "cpp",
+        "delay.h": "c"
+    }
+}

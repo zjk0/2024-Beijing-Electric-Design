@@ -1,0 +1,15 @@
+"F:\EWARM_8321\arm\bin\armproc.dll" 
+
+"F:\EWARM_8321\arm\bin\armstlink2.dll" 
+
+"C:\Users\86136\Desktop\stm32_electric_design\LCD_ili9488_20240729_3\EWARM\LCD_ili9488\Exe\LCD_ili9488.out" 
+
+--plugin="F:\EWARM_8321\arm\bin\armbat.dll" 
+
+--device_macro="F:\EWARM_8321\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader="F:\EWARM_8321\arm\config\flashloader\ST\FlashSTM32F427xG.board" 
+
+
+
+
